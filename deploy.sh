@@ -8,6 +8,6 @@ git init
 git add -A
 git commit -m 'Deploy to GitHub Pages'
 
-git push -f git@github.com:TahaHalniyazov/simon-game-vuejs.git master:gh-pages   
+git push -f git@github.com:TahaHalniyazov/simon-game-vuejs.git master 
 
 cd -
