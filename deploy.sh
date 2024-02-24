@@ -12,6 +12,6 @@ git commit -m 'Deploy to GitHub Pages'
 git remote add origin https://github.com/TahaHalniyazov/simon-game-vuejs.git
 
 
-git push -f origin HEAD:master
+git push -f origin HEAD:main
 
 cd -
