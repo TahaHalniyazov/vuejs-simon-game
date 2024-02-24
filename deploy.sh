@@ -9,9 +9,9 @@ git add -A
 git commit -m 'Deploy to GitHub Pages'
 
 
-git remote add origin git@github.com:TahaHalniyazov/simon-game-vuejs.git
+git remote add origin https://github.com/TahaHalniyazov/simon-game-vuejs.git
 
 
-git push -f origin HEAD:main
+git push -f origin HEAD:master
 
 cd -
