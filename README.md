@@ -2,4 +2,4 @@
 
 
 
-### [Deployed](https://TahaHalniyazov.github.io/simon-game-vuejs/ "Click to see deployed!")
+### [Deployed](https://TahaHalniyazov.github.io/vuejs-simon-game/ "Click to see deployed!")
